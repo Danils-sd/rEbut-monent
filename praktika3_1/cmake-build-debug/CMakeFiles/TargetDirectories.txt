@@ -1,0 +1,3 @@
+/Users/danila/CLionProjects/praktika3_1/cmake-build-debug/CMakeFiles/praktika3_1.dir
+/Users/danila/CLionProjects/praktika3_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danila/CLionProjects/praktika3_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
